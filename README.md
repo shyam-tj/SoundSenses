@@ -31,17 +31,13 @@
     <li>Clone the repository:</li>
     <pre><code>git clone https://github.com/yourusername/soundsenses.git</code></pre>
 
-    <li>Install required libraries:</li>
-    <pre><code>pip install -r requirements.txt</code></pre>
-
-    <li>Run the main script:</li>
-    <pre><code>python main.py</code></pre>
-
-    <li>Enjoy controlling your media player with hand gestures!</li>
+    
   </ol>
 
   <h2>💬 Summary</h2>
   <p>SoundSenses offers a seamless user experience by allowing users to control their media players with hand gestures. The system uses advanced hand-tracking technology to detect gestures such as play/pause, next/previous track, and volume control, making it both an exciting and practical tool for hands-free media control.</p>
+<h2> how gestures works?</h2>
+<h4> you control the system volume using hand gestures. Just pinch your thumb and index finger—bringing them closer lowers the volume, and spreading them apart turns it up. It’s like magic, no buttons needed!</h4>
 
  
 </body>
