@@ -43,7 +43,6 @@
   <h2>💬 Summary</h2>
   <p>SoundSenses offers a seamless user experience by allowing users to control their media players with hand gestures. The system uses advanced hand-tracking technology to detect gestures such as play/pause, next/previous track, and volume control, making it both an exciting and practical tool for hands-free media control.</p>
 
-  <h2>📄 License</h2>
  
 </body>
 </html>
